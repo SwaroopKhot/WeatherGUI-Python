@@ -8,11 +8,11 @@ You can search whatever city you want and get the weather details of it. The req
 
 #
 # Screen-shots:
-# Interface:
-![gui1](https://user-images.githubusercontent.com/68990620/108503467-6f428700-72da-11eb-8402-5848c2d5c510.png)
+### Interface:
+![gui1](https://user-images.githubusercontent.com/68990620/108504067-571f3780-72db-11eb-9f01-3abfbfddeea0.png)
 
 #
-# Weather Details:
+### Weather Details of city entered:
 ![Picture1](https://user-images.githubusercontent.com/68990620/108503473-710c4a80-72da-11eb-8f03-50b9f6fd7ec7.png)
 
 
