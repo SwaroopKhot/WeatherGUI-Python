@@ -67,7 +67,7 @@ def get_weather(city):
 
 
 
-image = ImageTk.PhotoImage(file = "bg1.jpg")  # Paste full path of this image or there will be an error- '_PhotoImage__photo'
+image = ImageTk.PhotoImage(file = "src//bg1.jpg")  # Paste full path of this image or there will be an error- '_PhotoImage__photo'
 canvas = tk.Canvas(root, height=500, width= 700)
 canvas.create_image(190 , 170, image = image)
 canvas.pack()
